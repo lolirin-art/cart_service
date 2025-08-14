@@ -1,3 +1,3 @@
 fn main() {
-    println!("Cart service for shop");
+    println!("Test changes of Cart service for shop");
 }
